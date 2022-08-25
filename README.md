@@ -29,4 +29,3 @@ Updating the version of a build
 -------------------------------
 
 Edit the version in `packages.toml` and make a pull request.
-
